@@ -11,7 +11,7 @@
    <p align="left">
       <img src="https://skillicons.dev/icons?i=java,python,go,aws,docker,postgres,unreal" />
     </p>
-</div> <br>
+</div>
 
 ##### Socials
 
