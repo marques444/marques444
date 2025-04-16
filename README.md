@@ -3,7 +3,6 @@
 👋 Hi, I’m Danilo Marques, a developer since 2023 with a keen interest in backend development. I’m passionate about expanding my skills, solving real-world challenges, and continually growing my knowledge in tech. Always up for trying to learn something new!
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marques444&layout=donut&theme=onedark)](https://github.com/marques444/github-readme-stats)
 ![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=marques444&show_icons=true&theme=onedark)
 
 ## What I'm used to working with
